@@ -33,6 +33,7 @@ Projek dalam rangka ujian praktek Deployment di Orbit Future Academy
 ## GUIDE
 
 `npm install -D tailwindcss` <br>
+`npm install flowbite` <br>
 `npx tailwindcss -i ./static/src/input.css -o ./static/dist/css/output.css --watch` <br>
 `flask run` <br>
 
