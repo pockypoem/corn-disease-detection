@@ -78,7 +78,7 @@ myenv==201902.7
 mysql-connector==2.2.9
 nest-asyncio==1.5.5
 nltk==3.7
-numpy==1.23.5
+numpy==1.21.4
 oauthlib==3.2.0
 opt-einsum==3.3.0
 outcome==1.1.0
